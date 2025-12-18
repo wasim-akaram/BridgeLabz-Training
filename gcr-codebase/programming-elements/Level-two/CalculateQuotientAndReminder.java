@@ -4,7 +4,7 @@ public class CalculateQuotientAndReminder
 {
 	public static void main(String[]args)
 	{
-	    // Taking input from user
+	    // Taking input from user after creating Scanner object
 		Scanner s=new Scanner(System.in);
 		int number1 = s.nextInt();
 		int number2 = s.nextInt();
