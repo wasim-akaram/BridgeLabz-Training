@@ -10,7 +10,7 @@ public class FeetToYardsAndMilesConverter {
         Scanner input = new Scanner(System.in);
         double distanceInFeet = input.nextDouble();
 
-        // Converting feet to yards and miles
+        // Converting feet to yards and miles.
         double yards = distanceInFeet / 3;
         double miles = yards/1760;
 
