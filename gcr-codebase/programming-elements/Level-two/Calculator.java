@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Calculator{
 	public static void main(String[] args){
 		
-		// asking for inputs from user
+		//asking for inputs from user
 		System.out.println("Enter two numbers: ");
 
 		//creating scanner object  and variables to take input from user
