@@ -11,7 +11,7 @@ public class IntOperation
 		int b=sc.nextInt();
 		int c=sc.nextInt();
 		
-		//calculating operation
+		//calculating operation as stated
 		int result1 =a + b *c;
 		int result2 = a * b + c;
 		int result3 = c + a / b;
