@@ -18,7 +18,7 @@ public class SmallestNumberCheck
         System.out.print("Enter third number: ");
         int thirdNumber = scanner.nextInt();
 
-        //checking if first number is the smallest and displaying result
+        //checking if first number is the smallest and displaying result on output
         if (firstNumber < secondNumber && firstNumber < thirdNumber) {
             System.out.println("The first number is the smallest.");
         } else {
