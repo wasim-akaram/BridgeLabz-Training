@@ -3,7 +3,7 @@ import java.util.*;
 public class AreaOfTriangle{
 	public static void main(String args[]){
 		
-		//creating variable to store height and base and taking inputs
+		//creating variable to store  the height and base and taking inputs
 		Scanner sc= new Scanner(System.in);
 		double height= sc.nextDouble();
 		double base= sc.nextDouble();
