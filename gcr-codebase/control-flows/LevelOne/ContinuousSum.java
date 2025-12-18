@@ -1,12 +1,12 @@
 //program to find the sum of numbers until the user enters 0
 
-import java.until.*;
+import java.util.*;
 public class ContinuousSum
 {
 	public static void main(String args[])
 	{
 		//creating object of scanner
-		Scanner input= new Scanner(system.in);
+		Scanner input= new Scanner(System.in);
 		
 		//asking for input
 		System.out.println("Enter the numbers to be added");
@@ -22,6 +22,8 @@ public class ContinuousSum
 		current=number;
 		sum= sum + current;
 		}
+		
+		System.out.println("Total sum is " + sum);
 	}
 }
 		
