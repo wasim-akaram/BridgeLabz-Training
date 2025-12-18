@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class SquareSide {  
     public static void main(String[] args) {  
 
-        //taking perimeter as input from user
+        //taking perimeter of square as input from user
         Scanner scanner = new Scanner(System.in);   
         double perimeter = scanner.nextDouble();  
         double side = perimeter / 4;  
