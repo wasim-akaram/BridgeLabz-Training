@@ -18,7 +18,7 @@ public class DoubleOperation
 		double result3 = c + a / b;
 		double result4 = a % b + c; 
 		
-		//printing the IntOperation clarifying the operation performed
+		//printing the IntOperation and clarifying the operation performed
 		System.out.println("The results of double Operations are  as follows: "+
 		"\n operation a + b * c = " + result1 + 
 		"\n operation a * b + c = " + result2 +	
