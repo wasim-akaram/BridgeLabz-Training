@@ -6,7 +6,7 @@ public class DoubleOperation
 {
 	public static void main(String[]args)
 	{   
-		//creating variables of type double and taking user input in variables named a, b and c as stated in the problem
+		//creating variables of type double and taking the user input in variables named a, b and c as stated in the problem
 		Scanner sc=new Scanner(System.in);
 		double a=sc.nextInt();
 		double b=sc.nextInt();
