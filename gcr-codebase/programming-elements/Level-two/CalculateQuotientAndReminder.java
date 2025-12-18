@@ -4,15 +4,17 @@ public class CalculateQuotientAndReminder
 {
 	public static void main(String[]args)
 	{
-	    //Taking user input for two numbers
+	    // Taking input from user
 		Scanner s=new Scanner(System.in);
 		int number1 = s.nextInt();
 		int number2 = s.nextInt();
+        
 		
 		//Calculation of quotient and reminder
 		double quotient= number1/number2;
 		double reminder= number1%number2;
 		
+
 		//printing the quotient and reminder
 		System.out.println("The Quotient is "+quotient+" and Reminder is "+reminder+" of two number "+number1+" and "+number2);
 		s.close();
