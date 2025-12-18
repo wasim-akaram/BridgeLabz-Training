@@ -1,0 +1,44 @@
+// a program to find the sum of n natural numbers using while loop compare the result
+// with the formulae n*(n+1)/2 and show the result from both computations was correct.
+
+
+import java.util.*;
+public class ConsecutiveSum
+{
+	public static void main(String args[])
+	{
+		//creating object of scanner
+		Scanner input= new Scanner(System.in);
+		
+		//asking for input
+		System.out.println("Enter the number");
+		int number = input.nextInt();
+		
+		//checking if the number is a natural number
+		if(number > 0)
+		{	
+			//finding sum of consecutive numbers by formula and loop
+			int sum1= (number *( number + 1))/2;
+			int sum2=0;
+			while(number >0)
+			{
+				sum2+=number;
+				number--;
+			}
+			//comparing both sums 
+			if (sum1 == sum2)
+			{
+				System.out.println(" The sum is " + sum2);
+			}
+			else
+			{
+			System.out.println("an error occured");
+			}
+		}
+		else
+		{
+		System.out.println("not a natural number");
+		}
+	}
+}
+		
