@@ -9,7 +9,7 @@ public class TotalPrice{
         float unitPrice=sc.nextFloat();
         int quantity=sc.nextInt();
         
-        // calculating total price
+        // calculating the total price
         float totalPrice=unitPrice*quantity;
         
         // displaying the result
