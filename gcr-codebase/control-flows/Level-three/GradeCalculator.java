@@ -18,28 +18,35 @@ public class GradeCalculator
 		
 		//calculating average marks and deciding grades
 		
-		double Average=((physics + chemistry + maths)/300.0)*100;
-        if (Average >= 80) 
+		double average=((physics + chemistry + maths)/300.0)*100;
+        if (average >= 80) 
 			{
+				System.out.println("Average marks = " + average );
 				System.out.println("Level 4, above agency-normalized standards");
 			}
-        else if (Average>=70 && Average<=79) 
+        else if (average>=70 && average<=79) 
 			{
+				System.out.println("Average marks = " + average );
 				System.out.println("Level 3, at agency-normalized standards");
 			}
-		else if(Average>=60 && Average<=69)
+		else if(average>=60 && average<=69)
 			{
+				System.out.println("Average marks = " + average );
 				System.out.println("Level 2, below, but approaching agency-normalized standards");
 			}
-        else if (Average>=50 && Average<=59) 
+        else if (average>=50 && average<=59) 
 			{
+				System.out.println("Average marks = " + average );
 				System.out.println("Level 1, well below agency-normalized standards");
 			}
-	    else if (Average>=40 && Average<=49) 
+	    else if (average>=40 && average<=49) 
 			{
+				System.out.println("Average marks = " + average );
 				System.out.println("Level 1-, too below agency-normalized standards");
 			}
-		else {
+		else 
+		{
+			System.out.println("Average marks = " + average );
             System.out.println("Remedial standards");
 		}
 		
