@@ -1,4 +1,4 @@
-//program to find Leap year using && and || operators
+//program to find Leap year using && and || operators.
  
 import java.util.Scanner;
 public class LeapYearUsingOperators
