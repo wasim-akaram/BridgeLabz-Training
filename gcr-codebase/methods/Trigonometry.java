@@ -32,6 +32,7 @@ public class Trigonometry
 		
 		String result = objectTrigonometry.findTrigonometricFunctions(degree);
 		
+		
 		//display result
 		System.out.println( result);
 	}
