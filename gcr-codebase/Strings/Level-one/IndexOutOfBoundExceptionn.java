@@ -1,0 +1,30 @@
+//program to demonstrate StringIndexOutOfBoundsException
+
+
+
+import java.util.*;
+public class IndexOutOfBoundExceptionn
+{
+
+	public static void stringMethod2() throws StringIndexOutOfBoundsException
+	{
+		String str="gcr codebase";
+		int count =1;
+
+		str = ""+str.charAt(str.length()+1);
+		
+	}
+	
+	
+	public static void main(String[] args)
+	{
+			try {stringMethod2();
+			}
+			catch(StringIndexOutOfBoundsException exc)
+			{
+			System.out.println(exc.toString());
+			}
+	}
+	
+	
+}
