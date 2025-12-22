@@ -6,7 +6,7 @@ import java.util.*;
 public class IndexOutOfBoundExceptionn
 {
 
-	public static void stringMethod2() throws StringIndexOutOfBoundsException
+	public static void stringMethod() throws StringIndexOutOfBoundsException
 	{
 		String str="gcr codebase";
 		int count =1;
@@ -18,7 +18,7 @@ public class IndexOutOfBoundExceptionn
 	
 	public static void main(String[] args)
 	{
-			try {stringMethod2();
+			try { stringMethod();
 			}
 			catch(StringIndexOutOfBoundsException exc)
 			{
