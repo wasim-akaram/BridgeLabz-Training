@@ -5,8 +5,7 @@ Day 1- Git & GitHub setup
 
 > Installed and configured Git.
 > Set up GitHub repository.
-
-'''
+```
 BridgeLabz-Training/
 |---- core-java-practice/
 |     |-----gcr-codebase/
@@ -19,7 +18,8 @@ BridgeLabz-Training/
 |     |     |----Strings/
 |     |-----leet-code-codebase/
 |     |-----scenario-based-codebase/
-|-----README.md
-'''
+|-----README.md/
+```
+
 > Learned basic Git commands.
 > Sucessfully pushed files to the repository.
