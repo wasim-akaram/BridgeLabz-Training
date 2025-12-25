@@ -77,7 +77,7 @@ Code link
 [Day 6: Methods ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 Day 7: studied strings in java  
-(Date: 22 Dec 2025)  
+(Date: 23 Dec 2025)  
 
 > Studied java strings.      
 > Solved practice problem based on string.      
