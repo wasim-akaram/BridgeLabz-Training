@@ -83,6 +83,15 @@ Day 7: studied strings in java
 > Solved practice problem based on string.      
 > Commited and pushed solutions to repository.  
 Code link  
-[Day 7: Strings ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)  
+[Day 7: Strings ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
+Day 8: studied date and time concept in java and solved extra questions  
+(Date: 24 Dec 2025)  
+
+> Studied how to get dates in different formats in java.
+> Solved extra practice problems based on bult-in functions      
+> Solved extra practice problem based on methods.      
+> Commited and pushed solutions to repository.  
+Code link  
+[Day 8: Extra questions ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)  
 
