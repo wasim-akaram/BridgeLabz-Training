@@ -34,3 +34,16 @@ Code link
 [Day 2: Basic java programs](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 
+Day 3: Git practice and basic java programs
+(Date: 18 Dec 2025)
+
+> Studied java programming elements
+      > Variables and data-types
+      > Operators
+      > User input and output
+> Solved practice problem based on programming elements.
+> Commited and pushed solutions to repository.
+Code link
+[Day 3: Programming Elements](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+
