@@ -74,5 +74,15 @@ Day 6: studied methods in java
 > Solved practice problem based on methods.    
 > Commited and pushed solutions to repository.  
 Code link  
-[Day 5: Methods ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)  
+[Day 6: Methods ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+Day 7: studied strings in java  
+(Date: 22 Dec 2025)  
+
+> Studied java strings.      
+> Solved practice problem based on string.      
+> Commited and pushed solutions to repository.  
+Code link  
+[Day 7: Strings ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)  
+
 
