@@ -27,9 +27,10 @@ BridgeLabz-Training/
 Day 2: Git practice and basic java programs
 (Date: 17 Dec 2025)
 
-> Studied java programming elements
-      > Variables and data-types
-      > Operators
-      > User input and output
-> Solved practice problem based on programming elements.
-> Commited and pushed solutions to repository.
+> Practised Git workflow to understand commits and version control.
+> Solved basic programs to understand syntax and structure.
+> Practised adding, commiting and pushing java files to Github.
+Code link
+[Day 2: Basic java programs](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+
+
