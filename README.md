@@ -46,4 +46,14 @@ Day 3: Git practice and basic java programs
 Code link
 [Day 3: Programming Elements](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+Day 4: Git practice and basic java programs
+(Date: 19 Dec 2025)
 
+> Studied java control flow
+      > if-else
+      > loops
+      > switch case
+> Solved practice problem based on control flow
+> Commited and pushed solutions to repository.
+Code link
+[Day 4: Control flow](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
