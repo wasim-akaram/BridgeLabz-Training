@@ -6,6 +6,8 @@ using a while loop. The program should stop when the user types “exit”. */
 import java.util.Scanner;
 public class CoffeeCounterChronicles 
 {
+	
+	
     
     public static void main(String[] args) 
 	{
