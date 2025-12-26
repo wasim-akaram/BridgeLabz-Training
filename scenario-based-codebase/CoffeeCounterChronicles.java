@@ -6,6 +6,7 @@ using a while loop. The program should stop when the user types “exit”. */
 import java.util.Scanner;
 public class CoffeeCounterChronicles 
 {
+    
     public static void main(String[] args) 
 	{
         
@@ -44,7 +45,8 @@ public class CoffeeCounterChronicles
                     continue; 
             }
 
-            System.out.print("Enter quantity: ");
+
+            System.out.print("Enter quantity of coffee: ");
             int quantity = sc.nextInt();
 
             // Calculate the total bill
