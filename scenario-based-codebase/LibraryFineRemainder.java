@@ -35,6 +35,8 @@ public class LibraryFineRemainder
 		LocalDate dueDate2 = LocalDate.parse(dueDate, formatter);
 		
 		long totalDays = ChronoUnit.DAYS.between(date1, dueDate2);
+		
+		//calculating and displaying fine
 		System.out.println("Total fine is Rs: " + totalDays*5);
 	}
 }
