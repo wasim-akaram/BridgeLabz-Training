@@ -109,11 +109,11 @@ Code link
 
 
 (Date: 30 Dec 2025) solved scenario based questions based on  
-> Temperature Logger 🌡️
-> Train Reservation Queue 🚆
->  Sandeep’s Fitness Challenge Tracker 🏋️
-> Movie Ticket Booking App 🎬
-> Rohan’s Library Reminder App 📚
-Code Link
-[LInk to scenario based question](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)  
+> Temperature Logger 🌡️  
+> Train Reservation Queue 🚆  
+>  Sandeep’s Fitness Challenge Tracker 🏋️  
+> Movie Ticket Booking App 🎬  
+> Rohan’s Library Reminder App 📚  
+Code Link  
+[LInk to scenario based question](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)    
 
