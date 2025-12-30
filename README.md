@@ -95,3 +95,25 @@ Day 8: studied date and time concept in java and solved extra questions
 Code link  
 [Day 8: Extra questions ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)  
 
+
+Day 9: solved scenario based question
+(Date:  29 Dec 2025)  
+
+> solved scenario based question on  
+> shopkeeper dashboard  
+> parking lot  
+> number guessing game and more...    
+> Commited and pushed solutions to repository.  
+Code link  
+[Day 9: Scenario based question ](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/PrakingLot.java)
+
+
+(Date: 30 Dec 2025) solved scenario based questions based on  
+> Temperature Logger 🌡️
+> Train Reservation Queue 🚆
+>  Sandeep’s Fitness Challenge Tracker 🏋️
+> Movie Ticket Booking App 🎬
+> Rohan’s Library Reminder App 📚
+Code Link
+[LInk to scenario based question](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)  
+
