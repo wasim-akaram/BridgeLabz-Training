@@ -20,4 +20,15 @@ Date: 27 Dec 2025
 > Studied the use of getter and setter  
 > Solved programming questions and pushed codes to GitHub  
 Code Link  
-[Day 2: Constructor and Access Modifiers](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelOne)  
+[Day 2: Constructor and Access Modifiers](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelOne)
+
+
+
+Day 3 this, static, final key words and instanceof operator   
+Date: 29 Dec 2025  
+
+> Studied this, static, final key words and instanceof operator   
+> Solved programming questions and pushed codes to GitHub  
+Code Link   
+[Day3 code](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)  
+
