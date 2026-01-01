@@ -15,4 +15,9 @@ class Patient {
     {
         return name;
     }
+    
+    int getPatientid() 
+    {
+        return patientId;
+    }
 }
