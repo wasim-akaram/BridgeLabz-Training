@@ -27,4 +27,9 @@ class Account
     {
         return bank;
     }
+    
+    int getAccountNumber() 
+    {
+        return accountNumber;
+    }
 }
