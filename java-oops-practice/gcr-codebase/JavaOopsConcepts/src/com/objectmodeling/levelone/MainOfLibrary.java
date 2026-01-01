@@ -6,23 +6,24 @@ public class MainOfLibrary
     {
 
         // Books exist independently
-        Book book1 = new Book("Java Programming", "James Gosling");
+        Book book1 = new Book("Java Programing", "James Gosling");
         Book book2 = new Book("Clean Code", "Robert C. Martin");
         Book book3 = new Book("Data Structures", "Mark Allen Weiss");
+        Book book4 = new Book("DataBase Management System", "Jennifer Widom");
 
         // Create libraries
-        Library centralLibrary = new Library("Central Library");
-        Library cityLibrary = new Library("City Library");
+        Library bhopalLibrary = new Library("Bhopal Library");
+        Library mainLibrary = new Library("Main Library");
 
         // Add books to libraries
-        centralLibrary.addBook(book1);
-        centralLibrary.addBook(book2);
+        bhopalLibrary.addBook(book1);
+        bhopalLibrary.addBook(book2);
 
-        cityLibrary.addBook(book2); // Same book in another library
-        cityLibrary.addBook(book3);
+        mainLibrary.addBook(book3); 
+        mainLibrary.addBook(book4);
 
-        // Display libraries
-        centralLibrary.displayLibraryBooks();
-        cityLibrary.displayLibraryBooks();
+        // Displaying libraries
+        bhopalLibrary.displayLibraryBooks();
+        mainLibrary.displayLibraryBooks();
     }
 }
