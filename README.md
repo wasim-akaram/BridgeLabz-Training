@@ -32,3 +32,13 @@ Date: 29 Dec 2025
 Code Link   
 [Day3 code](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)  
 
+
+
+Day 4 Object oriented design principles   
+Date: 30 Dec 2025  
+
+> Studied object modeling  
+> Studied design principles 
+> Solved programming questions and pushed codes to GitHub  
+Code Link   
+[Day4 Object modeling](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/levelone)  
