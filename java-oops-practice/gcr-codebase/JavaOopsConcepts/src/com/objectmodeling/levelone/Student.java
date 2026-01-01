@@ -37,4 +37,9 @@ class Student
     {
         return name;
     }
+    
+    int getStudentId() 
+    {
+        return studentId;
+    }
 }
