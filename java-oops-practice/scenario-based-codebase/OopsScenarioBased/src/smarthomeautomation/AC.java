@@ -3,6 +3,7 @@ package smarthomeautomation;
 class AC extends Appliance 
 {
 
+	
     public AC() 
     {
         super(1500);
