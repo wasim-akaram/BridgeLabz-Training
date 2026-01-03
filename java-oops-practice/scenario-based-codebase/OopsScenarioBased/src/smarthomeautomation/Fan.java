@@ -3,6 +3,7 @@ package smarthomeautomation;
 class Fan extends Appliance 
 {
 
+	
     public Fan() 
     {
         super(110);
