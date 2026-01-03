@@ -3,6 +3,7 @@ package smarthomeautomation;
 class Light extends Appliance 
 {
 
+	
     public Light() 
     {
         super(90);   
