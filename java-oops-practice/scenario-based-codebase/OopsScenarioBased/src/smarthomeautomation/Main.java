@@ -7,8 +7,6 @@ public class Main
     public static void main(String[] args) 
     {
     	
-    	
-
         Appliance light = new Light();
         Appliance fan = new Fan();
         Appliance ac = new AC();
