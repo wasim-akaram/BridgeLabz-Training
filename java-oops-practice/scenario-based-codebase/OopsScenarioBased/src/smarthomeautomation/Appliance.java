@@ -12,6 +12,7 @@ abstract class Appliance implements Controllable
     public Appliance() 
     {
         this.powerUsage = 100;
+        
     }
 
     // power setting
