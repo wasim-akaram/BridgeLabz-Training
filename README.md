@@ -130,6 +130,15 @@ Date: 27 Dec 2025
 
 
 
+Date: 29 Dec 2025  
+this, static, final key words and instanceof operator  
+> Studied this, static, final key words and instanceof operator  
+> [Code: this,final etc keywords](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)  
+
+> Solved scenario based questions on core java concepts  
+> eg. shopkeeper dashboard, parking lot, number guessing game and more...  
+> [Scenario based: Parking lot](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/PrakingLot.java)  
+
 
 
 
