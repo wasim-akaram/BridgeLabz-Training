@@ -71,3 +71,14 @@ Day 7 Writing codes and updating
 
 Code link  
 [Encapsulation, Abstract Classes and polymorphism](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)  
+
+
+
+Date: 3 Jan 2026 Scenario Based questions  
+
+> Solved scenario based questions of OOPS concepts  
+> Hospital Patient Management System  
+> Vehicle Rental Application  
+> University Course Enrollment System  
+
+[Code Link: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
