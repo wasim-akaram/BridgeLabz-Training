@@ -29,12 +29,68 @@ Date: 16-Dec-2025
 > Commands: Mastered git init, clone, add, commit, push, and status.  
 
 
-Day 2 – Programming Elements  
-Date: 17-Dec-2025  
+Day 2 – Git practice and basic java programs   
+(Date: 17-Dec-2025)  
 
-> Concepts: Variables, literals, primitive data types, and type casting.  
-> Logic: Operators (Arithmetic, Relational, Logical) and expressions.  
-> I/O: Implemented user input handling using Scanner.  
+>Practised git workflow to understand commits and version control  
+> Practised adding and commiting files to Github  
 > Solved and pushed codes to Github  
 
-[Code: Programing elements](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
+[Code: Basic java programs](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)  
+
+
+Day 3 - Git practice and basic java programs  
+(Date: 18 Dec 2025)  
+> Studied java programming elements  
+> Studied operators and user inputs  
+> Solved and pushed code to repo  
+
+[Code: Programming elements](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
+
+
+
+Day 4 - Java conteol flow Programs  
+(Date 19 Dec 2025)  
+
+>Studied control flow  
+>Solved practie problems on control flow  
+>[Code: Control flow](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)  
+
+
+
+Day 5 Arrays  
+(Date: 20 Dec 2025)  
+
+> studied arrays
+> Solved practice problems on arrays  
+> [Code: Arrays](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)  
+
+
+
+Day 6 Methods in Java  
+(Date: 22 Dec 2025)  
+
+> Studied methods in java  
+> Solved practice problems  
+> [Code: Methods](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)  
+
+
+
+Day 7 Strings in Java  
+(Date: 23 Dec 2025)  
+
+> Studied java strings  
+> Solved practice problem based on string.  
+> [Code: Strings](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)  
+
+
+
+Day 8  date and time concept and built-in functions in java  
+(Date: 24 Dec 2025)  
+
+> Studied how to get dates in different formats in java  
+> Solved extra practice problems based on bult-in functions  
+> Solved extra practice problem based on methods.  
+> [Code: Date and time and extras](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)  
+
+
