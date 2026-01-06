@@ -6,6 +6,7 @@
 
 # Java build output
 bin/
+bin1/
 target/
 
 # JPMS
