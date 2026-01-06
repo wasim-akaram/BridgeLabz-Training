@@ -213,3 +213,16 @@ solved scenario based question and pushed codes to Github
 > "CabbyGo – A Ride-Hailing App in the Making"  
 > "MyBank – Managing Customer Accounts"  
 > [Code: Scenario Based E-Wallet](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/ewalletapplication)  
+
+
+
+Date: 05 Jan 2026  
+Sorting algorithms  
+> Studied Sorting algorithms  
+> Solved questions based on various algorithms  
+> [Code: Sorting Algorithms](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/sortingalgorithms)  
+
+Solved Scenario based questions 
+> CampusConnect – College Information System        [Code](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/campusconnect)  
+> SwiftCart – The Grocery Shopping App.        [Code](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/swiftcart)  
+
