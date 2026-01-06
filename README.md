@@ -170,3 +170,11 @@ Solved scenario based questions based on
 > Bus Route Distance Tracker 🚌  
 > Festival Lucky Draw 🎉  
 > [Code: Digital watch simulation](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/DigitalWatchSimulation.java)  
+
+
+
+Date: 01 Jan 2026  
+Encapsulation, Interface, Abstract Classes, and Polymorphism  
+> Studied the concepts of Encapsulation, 
+> Interface, Abstract classes, Polymorphism  
+> [Code Encapsulation, Abstract classes and polymorphism](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)  
