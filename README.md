@@ -82,3 +82,14 @@ Date: 3 Jan 2026 Scenario Based questions
 > University Course Enrollment System  
 
 [Code Link: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
+
+
+
+Date: 4 Jan 2026 Scenario based question    
+> solved scenario based question and pushed codes to Github    
+> E-Wallet Application  
+> Smart Home Automation System  
+> "CabbyGo – A Ride-Hailing App in the Making"  
+> "MyBank – Managing Customer Accounts"  
+
+[Code Link: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
