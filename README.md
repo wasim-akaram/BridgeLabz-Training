@@ -188,3 +188,19 @@ Date: 02 Jan 2026
 > Introduction to Data Structure  
 > Studied Linked List  
 > [Code: Linked List](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/linkedlist)  
+
+
+
+Date: 03 Jan 2026  
+Stack Queue Hashmap And Hashing function  
+> Studied stack, queue, hashmap and hash functions  
+> solved questions and pushed codes to Github  
+> [Code: Stack and Queue](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/stackandqueue)  
+> [Code: Hash map and Hash Functions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/hashmap)  
+
+Scenario based questions on OOPs  
+> Hospital Patient Management System  
+> Vehicle Rental Application  
+> University Course Enrollment System  
+> [Code: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
+
