@@ -147,14 +147,26 @@ Object oriented design principles
 > Studied design principles  
 > [Code: Object modeling](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/levelone)  
 
-> solved scenario based questions based on
-> Temperature Logger 🌡️
-> Train Reservation Queue 🚆
-> Sandeep’s Fitness Challenge Tracker 🏋️
-> Movie Ticket Booking App 🎬
-> Rohan’s Library Reminder App 📚
-> [Code Link: Sandeep fitness tracker](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)  
+> solved scenario based questions based on  
+> Temperature Logger 🌡️  
+> Train Reservation Queue 🚆  
+> Sandeep’s Fitness Challenge Tracker 🏋️  
+> Movie Ticket Booking App 🎬  
+> Rohan’s Library Reminder App 📚  
+> [Code Link: Sandeep fitness tracker](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)   
 
 
 
+Date: 31 Dec 2025  
+Inheritance  
+> Studied Inheritance  
+> Solved multiple questions and pushed codes to Github   
+> [Code: Inheritance](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
 
+Solved scenario based questions based on  
+> Digital Watch Simulation ⏱️  
+> Online Quiz Application 🧠  
+> Currency Exchange Kiosk 💱  
+> Bus Route Distance Tracker 🚌  
+> Festival Lucky Draw 🎉  
+> [Code: Digital watch simulation](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/DigitalWatchSimulation.java)  
