@@ -42,3 +42,31 @@ Date: 30 Dec 2025
 > Solved programming questions and pushed codes to GitHub  
 Code Link   
 [Day4 Object modeling](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/levelone)  
+
+
+
+Day 5 Inheritance  
+Date: 31 Dec 2025  
+
+> Studied Inheritance  
+> Solved multiple questions and pushed codes to Github  
+Code Link
+[Inheritance](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+
+
+Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism  
+Date: 01 Jan 2026  
+
+> Studied the concepts of Encapsulation  
+> Studied Interface  
+> Studied Abstract Classes   
+> Studied Polymorphism  
+
+Day 7 Writing codes and updating  
+
+> Solved the practice questions  
+> Implemented all the concepts  
+> Pushed the codes to Github  
+
+Code link  
+[Encapsulation, Abstract Classes and polymorphism](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)  
