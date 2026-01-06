@@ -115,5 +115,15 @@ Code link
 > Movie Ticket Booking App 🎬  
 > Rohan’s Library Reminder App 📚  
 Code Link  
-[LInk to scenario based question](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)    
+[LInk to scenario based question](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)
+
+
+(Date: 31 Dec 2025) solved scenario based questions based on  
+> Digital Watch Simulation ⏱️  
+> Online Quiz Application 🧠  
+> Currency Exchange Kiosk 💱  
+> Bus Route Distance Tracker 🚌  
+> Festival Lucky Draw 🎉  
+Code Link  
+[Link to scenario based question](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
 
