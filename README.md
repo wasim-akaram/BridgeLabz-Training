@@ -178,3 +178,13 @@ Encapsulation, Interface, Abstract Classes, and Polymorphism
 > Studied the concepts of Encapsulation, 
 > Interface, Abstract classes, Polymorphism  
 > [Code Encapsulation, Abstract classes and polymorphism](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)  
+
+
+
+Week 3: Data Structure and Algorithms  
+
+Date: 02 Jan 2026
+> DSA Prep Plan & Roadmap  
+> Introduction to Data Structure  
+> Studied Linked List  
+> [Code: Linked List](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/linkedlist)  
