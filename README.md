@@ -8,15 +8,18 @@ Object-Oriented Programming (OOP): System design, architecture, and advanced Jav
 
 ```
 BridgeLabz-Training/
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
-├── java-oops-practice/
-│   ├── gcr-codebase/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
-└── README.md
+|---- core-java-practice/
+|     |-----gcr-codebase/
+|     |     |----arrays/
+|     |     |----control-flows/
+|     |     |----Extras/
+|     |     |----methods/
+|     |     |----programming elements/
+|     |     |----program-prerequisite/
+|     |     |----Strings/
+|     |-----leet-code-codebase/
+|     |-----scenario-based-codebase/
+|-----README.md/
 ```
 
 Training Log    
