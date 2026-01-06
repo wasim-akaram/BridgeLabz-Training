@@ -97,3 +97,28 @@ Day 8  date and time concept and built-in functions in java
 > [Code: Date and time and extras](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)  
 
 
+
+Date: 25 Dec 2025 Scenario based questions  
+> Solved scenario based questions on  
+> The Coffee Counter Chronicles  
+> Maya’s BMI Fitness Tracker  
+[Code Link](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)     
+
+
+
+
+Week 2 Object Oriented Programming  
+
+Day 1 Object Oeirnted Programming Fundamental  
+Date: 26 Dec 2025  
+
+> Studied fundamentals of objec oriented programming  
+> Solved programming questions based on object and classes  
+> [Code: Classes and objects](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)  
+
+
+
+
+
+
+
