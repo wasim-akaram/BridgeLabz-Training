@@ -118,6 +118,18 @@ Date: 26 Dec 2025
 
 
 
+Day 2 Constructors, Instance and class variables, Access modifiers  
+Date: 27 Dec 2025  
+> Studied constructors, instance and class variables, access modifiers  
+> Studies use of getter and setter  
+> solved programming questions and pushed codes  
+[Code: Constructor and access modifiers](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelOne)  
+
+> Solved scenario based questions of core java programming  
+[Code: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+
+
+
 
 
 
