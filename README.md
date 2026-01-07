@@ -40,9 +40,9 @@ Code link
 Day 4   Searching Algorithm, String Buffer, String Builder  
 Date: 6 Jan 2026   
 
-> Studied the searching algorithms Linear search and Binary search
-> Studies String Builder and String Buffer
-> Studied about BufferedReader, FileReader, InputStreamReader
+> Studied the searching algorithms Linear search and Binary search  
+> Studied String Builder and String Buffer  
+> Studied about BufferedReader, FileReader, InputStreamReader  
 ---
 
 
