@@ -1,6 +1,6 @@
 #Week 2 Object Oriented Programming  
 
-###Day 1 Object Oeirnted Programming Fundamental  
+Day 1 Object Oeirnted Programming Fundamental  
 Date: 26 Dec 2025  
 
 > Studied fundamentals of objec oriented programming  
@@ -11,7 +11,7 @@ Code link
 ---
 
 
-###Day 2 Constructors, Instance and class variables, Access modifiers  
+Day 2 Constructors, Instance and class variables, Access modifiers  
 Date: 27 Dec 2025  
 
 > Studied constructors  
@@ -24,7 +24,7 @@ Code Link
 ---
 
 
-###Day 3 this, static, final key words and instanceof operator   
+Day 3 this, static, final key words and instanceof operator   
 Date: 29 Dec 2025  
 
 > Studied this, static, final key words and instanceof operator   
@@ -34,7 +34,7 @@ Code Link
 ---
 
 
-###Day 4 Object oriented design principles   
+Day 4 Object oriented design principles   
 Date: 30 Dec 2025  
 
 > Studied object modeling  
@@ -45,7 +45,7 @@ Code Link
 ---
 
 
-###Day 5 Inheritance  
+Day 5 Inheritance  
 Date: 31 Dec 2025  
 
 > Studied Inheritance  
@@ -54,7 +54,7 @@ Code Link
 [Inheritance](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
 ---
 
-###Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism  
+Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism  
 Date: 01 Jan 2026  
 
 > Studied the concepts of Encapsulation  
@@ -63,7 +63,7 @@ Date: 01 Jan 2026
 > Studied Polymorphism  
 ---
 
-###Day 7 Writing codes and updating  
+Day 7 Writing codes and updating  
 
 > Solved the practice questions  
 > Implemented all the concepts  
@@ -72,7 +72,7 @@ Date: 01 Jan 2026
 ---
 
 
-###Date: 3 Jan 2026 Scenario Based questions  
+Date: 3 Jan 2026 Scenario Based questions  
 
 > Solved scenario based questions of OOPS concepts  
 > Hospital Patient Management System  
@@ -82,7 +82,7 @@ Date: 01 Jan 2026
 ---
 
 
-###Date: 4 Jan 2026 Scenario based question    
+Date: 4 Jan 2026 Scenario based question    
 > solved scenario based question and pushed codes to Github    
 > E-Wallet Application  
 > Smart Home Automation System  
