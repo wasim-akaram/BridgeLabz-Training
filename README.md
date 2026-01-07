@@ -136,9 +136,9 @@ this, static, final key words and instanceof operator
 
 > Solved scenario based questions on core java concepts  
 > eg. shopkeeper dashboard, parking lot, number guessing game and more...  
-> [Scenario based: Parking lot](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/PrakingLot.java)  ---
+> [Scenario based: Parking lot](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/PrakingLot.java)
 
-
+  ---
 
 Date: 30 Dec 2025  
 Object oriented design principles  
