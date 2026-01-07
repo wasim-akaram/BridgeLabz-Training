@@ -96,7 +96,7 @@ Code link
 ---
 
 
-###Date: 5 Jan 2026 Scenario based question  
+Date: 5 Jan 2026 Scenario based question  
 > solved scenario based question and pushed codes to Github  
 > [CampusConnect – College Information System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/campusconnect)  
 > [SwiftCart – The Grocery Shopping App](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/swiftcart)  
