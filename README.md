@@ -2,7 +2,7 @@
 
 Week 3 DSA Programming  
 
-Day 1 DSA Prep Plan & Roadmap  
+Day 1   DSA Prep Plan & Roadmap  
 Date: 2 Jan 2026  
 
 > Introduction to Data Structure  
@@ -12,7 +12,7 @@ Code
 [Linked List](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/linkedlist)
 ---
 
-Day 2 Stack Queue Hashmap And Hashing function  
+Day 2   Stack Queue Hashmap And Hashing function  
 Date: 3 Jan 2026  
 
 >Introduction to Queue  
@@ -26,7 +26,7 @@ Code Link
 [Hash map and Hash Functions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/hashmap)  
 ---
 
-Day 3 Sorting algorithms   
+Day 3   Sorting algorithms   
 Date: 5 Jan 2026   
 
 >Studied Sorting algorithms   
@@ -37,10 +37,18 @@ Code link
 ---
 
 
-Day 4 Searching Algorithm, String Buffer, String Builder  
+Day 4   Searching Algorithm, String Buffer, String Builder  
 Date: 6 Jan 2026   
 
 > Studied the searching algorithms Linear search and Binary search
 > Studies String Builder and String Buffer
 > Studied about BufferedReader, FileReader, InputStreamReader
+---
+
+
+Day 5  Algorithm's Runtime Analysis & Big-O Notation  
+Date: 7 Jan 2026  
+
+> Studied about algorithm's runtime and its analysis  
+> Studied Big-O Notation  
 ---
