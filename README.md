@@ -239,3 +239,15 @@ solved scenario based question and pushed codes to Github
 > [PetPal – Virtual Pet Care App](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/petpal)  
 > [EventEase – Event Management Platform](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/eventease)  
 ---
+
+
+Date: 07 Jan 2026  
+> Studied about algorithm's runtime and its analysis  
+> Studied Big-O Notation
+
+> solved scenario based question and pushed codes to Github  
+> [LoanBuddy – Loan Approval Automation](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/loanbuddy)  
+> [BookBazaar – Digital Bookstore System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/bookbazar)  
+> [ParkEase – Smart Parking Management System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/parkease)
+---
+
