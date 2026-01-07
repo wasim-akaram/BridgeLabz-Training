@@ -97,3 +97,14 @@ Date: 5 Jan 2026 Scenario based question
 > [CampusConnect – College Information System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/campusconnect)  
 > [SwiftCart – The Grocery Shopping App](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/swiftcart)  
 ---
+
+
+Date: 6 Jan 2026 Scenario based question  
+> solved scenario based question and pushed codes to Github    
+> [EduMentor – Personalized Learning Platform](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/edumentor)  
+> [FitTrack – Your Personal Fitness Tracker](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/fittrack)  
+> [PetPal – Virtual Pet Care App](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/petpal)  
+> [EventEase – Event Management Platform](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/eventease)  
+---
+
+
