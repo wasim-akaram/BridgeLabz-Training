@@ -108,3 +108,12 @@ Date: 6 Jan 2026 Scenario based question
 ---
 
 
+Date: 7 Jan 2026 Scenario based question  
+> solved scenario based question and pushed codes to Github  
+> [LoanBuddy – Loan Approval Automation](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/loanbuddy)  
+> [BookBazaar – Digital Bookstore System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/bookbazar)  
+> [ParkEase – Smart Parking Management System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/parkease)
+---
+
+
+
