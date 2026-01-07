@@ -30,7 +30,7 @@ Date: 16-Dec-2025
 > Setup: Installed and configured Git globally.  
 > Repository: Initialized the repository, set up remote origin, and managed branches.  
 > Commands: Mastered git init, clone, add, commit, push, and status.  
-
+---
 
 Day 2 – Git practice and basic java programs   
 (Date: 17-Dec-2025)  
@@ -40,16 +40,15 @@ Day 2 – Git practice and basic java programs
 > Solved and pushed codes to Github  
 
 [Code: Basic java programs](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)  
-
+---
 
 Day 3 - Git practice and basic java programs  
 (Date: 18 Dec 2025)  
 > Studied java programming elements  
 > Studied operators and user inputs  
 > Solved and pushed code to repo  
-
-[Code: Programming elements](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
-
+> [Code: Programming elements](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
+---
 
 
 Day 4 - Java conteol flow Programs  
@@ -58,7 +57,7 @@ Day 4 - Java conteol flow Programs
 >Studied control flow  
 >Solved practie problems on control flow  
 >[Code: Control flow](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)  
-
+---
 
 
 Day 5 Arrays  
@@ -67,7 +66,7 @@ Day 5 Arrays
 > studied arrays
 > Solved practice problems on arrays  
 > [Code: Arrays](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)  
-
+---
 
 
 Day 6 Methods in Java  
@@ -76,7 +75,7 @@ Day 6 Methods in Java
 > Studied methods in java  
 > Solved practice problems  
 > [Code: Methods](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)  
-
+---
 
 
 Day 7 Strings in Java  
@@ -85,7 +84,7 @@ Day 7 Strings in Java
 > Studied java strings  
 > Solved practice problem based on string.  
 > [Code: Strings](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)  
-
+---
 
 
 Day 8  date and time concept and built-in functions in java  
@@ -95,7 +94,7 @@ Day 8  date and time concept and built-in functions in java
 > Solved extra practice problems based on bult-in functions  
 > Solved extra practice problem based on methods.  
 > [Code: Date and time and extras](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)  
-
+---
 
 
 Date: 25 Dec 2025 Scenario based questions  
@@ -103,7 +102,7 @@ Date: 25 Dec 2025 Scenario based questions
 > The Coffee Counter Chronicles  
 > Maya’s BMI Fitness Tracker  
 [Code Link](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)     
-
+---
 
 
 
@@ -115,7 +114,7 @@ Date: 26 Dec 2025
 > Studied fundamentals of objec oriented programming  
 > Solved programming questions based on object and classes  
 > [Code: Classes and objects](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)  
-
+---
 
 
 Day 2 Constructors, Instance and class variables, Access modifiers  
@@ -127,7 +126,7 @@ Date: 27 Dec 2025
 
 > Solved scenario based questions of core java programming  
 [Code: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
-
+---
 
 
 Date: 29 Dec 2025  
@@ -137,7 +136,7 @@ this, static, final key words and instanceof operator
 
 > Solved scenario based questions on core java concepts  
 > eg. shopkeeper dashboard, parking lot, number guessing game and more...  
-> [Scenario based: Parking lot](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/PrakingLot.java)  
+> [Scenario based: Parking lot](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/PrakingLot.java)  ---
 
 
 
@@ -154,7 +153,7 @@ Object oriented design principles
 > Movie Ticket Booking App 🎬  
 > Rohan’s Library Reminder App 📚  
 > [Code Link: Sandeep fitness tracker](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/SandeepFitnessTracker.java)   
-
+---
 
 
 Date: 31 Dec 2025  
@@ -170,7 +169,7 @@ Solved scenario based questions based on
 > Bus Route Distance Tracker 🚌  
 > Festival Lucky Draw 🎉  
 > [Code: Digital watch simulation](https://github.com/wasim-akaram/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/DigitalWatchSimulation.java)  
-
+---
 
 
 Date: 01 Jan 2026  
@@ -178,7 +177,7 @@ Encapsulation, Interface, Abstract Classes, and Polymorphism
 > Studied the concepts of Encapsulation, 
 > Interface, Abstract classes, Polymorphism  
 > [Code Encapsulation, Abstract classes and polymorphism](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)  
-
+---
 
 
 Week 3: Data Structure and Algorithms  
@@ -188,7 +187,7 @@ Date: 02 Jan 2026
 > Introduction to Data Structure  
 > Studied Linked List  
 > [Code: Linked List](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/linkedlist)  
-
+---
 
 
 Date: 03 Jan 2026  
@@ -203,7 +202,7 @@ Scenario based questions on OOPs
 > Vehicle Rental Application  
 > University Course Enrollment System  
 > [Code: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
-
+---
 
 
 Date: 04 Jan 2026  
@@ -213,7 +212,7 @@ solved scenario based question and pushed codes to Github
 > "CabbyGo – A Ride-Hailing App in the Making"  
 > "MyBank – Managing Customer Accounts"  
 > [Code: Scenario Based E-Wallet](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/ewalletapplication)  
-
+---
 
 
 Date: 05 Jan 2026  
@@ -225,4 +224,18 @@ Sorting algorithms
 Solved Scenario based questions 
 > CampusConnect – College Information System        [Code](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/campusconnect)  
 > SwiftCart – The Grocery Shopping App.        [Code](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/swiftcart)  
+---
 
+
+Date: 06 Jan 2026  
+Searching Algorithm, String Buffer, String Builder
+> Studied the searching algorithms Linear search and Binary search  
+> Studied String Builder and String Buffer  
+> Studied about BufferedReader, FileReader, InputStreamReader
+
+solved scenario based question and pushed codes to Github    
+> [EduMentor – Personalized Learning Platform](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/edumentor)  
+> [FitTrack – Your Personal Fitness Tracker](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/fittrack)  
+> [PetPal – Virtual Pet Care App](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/petpal)  
+> [EventEase – Event Management Platform](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/eventease)  
+---
