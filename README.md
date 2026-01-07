@@ -68,9 +68,7 @@ Date: 01 Jan 2026
 > Solved the practice questions  
 > Implemented all the concepts  
 > Pushed the codes to Github  
-
-Code link  
-[Encapsulation, Abstract Classes and polymorphism](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)  
+>[ Code link Encapsulation, Abstract Classes and polymorphism](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)  
 ---
 
 
@@ -80,8 +78,7 @@ Code link
 > Hospital Patient Management System  
 > Vehicle Rental Application  
 > University Course Enrollment System  
-
-[Code Link: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
+> [Code Link: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
 ---
 
 
@@ -91,8 +88,7 @@ Code link
 > Smart Home Automation System  
 > "CabbyGo – A Ride-Hailing App in the Making"  
 > "MyBank – Managing Customer Accounts"  
-
-[Code Link: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
+> [Code Link: Scenario based questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)  
 ---
 
 
