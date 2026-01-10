@@ -251,3 +251,10 @@ Date: 07 Jan 2026
 > [ParkEase – Smart Parking Management System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/parkease)
 ---
 
+
+Date: 8 Jan 2026 Scenario based question  
+> solved scenario based question and pushed codes to Github  
+>[MediStore – Pharmacy Inventory & Sales System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/medistore)  
+> [TourMate – Travel Itinerary Planner](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/tourmate)
+---
+
