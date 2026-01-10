@@ -122,3 +122,13 @@ Date: 8 Jan 2026 Scenario based question
 > [TourMate – Travel Itinerary Planner](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/tourmate)
 ---
 
+
+Date: 9 Jan 2026 Scenario based question  
+> solved scenario based question and pushed codes to Github  
+> [Artify – Digital Art Marketplace](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/artify)  
+> [FoodLoop – Restaurant Ordering System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/foodloop)  
+> [SkillForge – Online Learning Portal](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/skillforge)  
+---
+
+
+
