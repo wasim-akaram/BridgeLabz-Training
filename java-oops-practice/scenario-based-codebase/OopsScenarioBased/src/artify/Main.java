@@ -22,7 +22,7 @@ public class Main
 		monaLisa.purchase(user1);
 		
 		song.license(user2);
-		System.out.println(user2.getBalance());
+		user1.showBalance();
 		song.purchase(user2);
 		
 		
