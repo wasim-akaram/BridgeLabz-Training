@@ -35,7 +35,7 @@ public class CompartmentLinkedList
 
         while (temp != null) 
         {
-            System.out.print("\n"+temp.compartmentNumber + "	        " + temp.name +"     " + temp.feature);
+            System.out.println("\n"+temp.compartmentNumber + "	        " + temp.name +"     " + temp.feature);
             temp = temp.next;
         }
         System.out.println();
