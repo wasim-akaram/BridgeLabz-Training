@@ -2,9 +2,11 @@ package com.ambulanceroute;
 
 
 
-public class Main {
+public class Main
+{
 	
-	 public static void main(String[] args) {
+	 public static void main(String[] args) 
+	 {
 
 	        AmbulanceRouteLinkedList route = new AmbulanceRouteLinkedList();
 
