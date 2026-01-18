@@ -17,6 +17,7 @@ public class CallCenterService
             System.out.println("VIP customer added: " + customer.getName());
         }
         else
+        	
         {
             normalQueue.addCustomer(customer);
             System.out.println("Normal customer added: " + customer.getName());

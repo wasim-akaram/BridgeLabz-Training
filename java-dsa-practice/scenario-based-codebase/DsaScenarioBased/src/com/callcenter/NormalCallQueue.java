@@ -10,6 +10,7 @@ public class NormalCallQueue
     public void addCustomer(Customer customer)
     {
         queue.add(customer);
+        
     }
 
     public Customer getNextCustomer()

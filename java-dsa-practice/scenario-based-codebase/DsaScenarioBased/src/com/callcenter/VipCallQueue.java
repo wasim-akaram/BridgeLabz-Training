@@ -12,6 +12,7 @@ public class VipCallQueue
     public void addCustomer(Customer customer)
     {
         vipQueue.add(customer);
+        
     }
 
     public Customer getNextCustomer()

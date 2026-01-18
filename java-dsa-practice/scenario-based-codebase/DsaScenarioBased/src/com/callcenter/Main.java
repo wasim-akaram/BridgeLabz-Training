@@ -12,6 +12,7 @@ public class Main
         Customer c2 = new Customer(102, "Marty", true);
         Customer c3 = new Customer(103, "Julien", false);
         Customer c4 = new Customer(104, "Skipper", true);
+        
 
         service.receiveCall(c1);
         service.receiveCall(c2);
