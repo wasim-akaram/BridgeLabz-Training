@@ -91,6 +91,7 @@ Date: 13 Jan 2026  Scenario based Question
 
 Date: 15 Jan 2026  Scenario based Question  
 
+> Studied Graph  
 > Solved DSA based Scenario based questions  
 > Code link  
 [HospitalQueue – Patient Sorting by Criticalit](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/hospitalqueue)  
@@ -98,4 +99,14 @@ Date: 15 Jan 2026  Scenario based Question
 [ZipZipMart – Daily Sales Summary Report](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/zipzipmart)  
 [EventManager – Ticket Price Optimizer ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/eventmanager)  
 [ExamCell – Student Rank Generator ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/examcell)
+---
+
+
+Date: 16 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[ RoboWarehouse – Shelf Loading Robot](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/robowarehouse)  
+[ CinemaHouse – Movie Time Sorting](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/cinemahouse)  
+[CropMonitor – Sensor Data Ordering](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/cropmonitor)  
 ---
