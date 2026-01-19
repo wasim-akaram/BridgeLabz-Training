@@ -75,4 +75,15 @@ Date: 12 Jan 2026  Scenario based Question
 [TrainCompanion – Compartment Navigation System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/traincompanion)  
 [TextEditor – Undo/Redo Functionality ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/texteditor)  
 [ TrafficManager – Roundabout Vehicle Flow ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/trafficmanager)  
+---
 
+
+Date: 12 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[SmartCheckout – Supermarket Billing Queue](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartcheckout)  
+[ParcelTracker – Delivery Chain Management ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/parceltracker)  
+[ExamProctor – Online Exam Review System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/examproctor)
+[PayXpress – Utility Bill Payment System]
+---
