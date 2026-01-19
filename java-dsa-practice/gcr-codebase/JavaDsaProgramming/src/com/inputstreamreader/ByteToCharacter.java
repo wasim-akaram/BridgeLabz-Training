@@ -1,0 +1,29 @@
+package com.inputstreamreader;
+
+import java.io.*;
+
+public class ByteToCharacter 
+{
+	
+
+	    public static void main(String[] args)
+	    {
+	        try (BufferedReader br = new BufferedReader(
+	                new InputStreamReader(new FileInputStream("D:\\Faltu\\Read.txt"), "UTF-8"))) 
+	        {
+
+	            String line;
+	            while ((line = br.readLine()) != null) 
+	            {
+	                System.out.println(line);
+	            }
+	        } 
+	        catch (IOException e) 
+	        {
+	            e.printStackTrace();
+	        }
+	    }
+	}
+
+
+
