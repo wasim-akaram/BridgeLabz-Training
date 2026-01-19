@@ -54,3 +54,12 @@ Date: 7 Jan 2026
 Code Link  
 [Algorithm runtime analysis](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/algorithmanalysis)  
 ---
+
+
+Date: 10 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[BookShelf – Library Organizer](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/bookshelf)  
+[BrowserBuddy – Tab History Manager](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/browserbuddy)  
+[AmbulanceRoute – Emergency Patient Navigation](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/ambulanceroute)  
