@@ -78,7 +78,7 @@ Date: 12 Jan 2026  Scenario based Question
 ---
 
 
-Date: 12 Jan 2026  Scenario based Question  
+Date: 13 Jan 2026  Scenario based Question  
 
 > Solved DSA based Scenario based questions  
 > Code link  
@@ -86,4 +86,16 @@ Date: 12 Jan 2026  Scenario based Question
 [ParcelTracker – Delivery Chain Management ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/parceltracker)  
 [ExamProctor – Online Exam Review System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/examproctor)
 [PayXpress – Utility Bill Payment System]
+---
+
+
+Date: 15 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[HospitalQueue – Patient Sorting by Criticalit](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/hospitalqueue)  
+[SmartShelf – Real-Time Book Arrangement ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartshelf)  
+[ZipZipMart – Daily Sales Summary Report](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/zipzipmart)  
+[EventManager – Ticket Price Optimizer ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/eventmanager)  
+[ExamCell – Student Rank Generator ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/examcell)
 ---
