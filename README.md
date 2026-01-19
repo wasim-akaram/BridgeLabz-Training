@@ -50,5 +50,7 @@ Day 5  Algorithm's Runtime Analysis & Big-O Notation
 Date: 7 Jan 2026  
 
 > Studied about algorithm's runtime and its analysis  
-> Studied Big-O Notation  
+> Studied Big-O Notation
+Code Link  
+[Algorithm runtime analysis](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/algorithmanalysis)  
 ---
