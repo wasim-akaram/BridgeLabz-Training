@@ -110,3 +110,14 @@ Date: 16 Jan 2026  Scenario based Question
 [ CinemaHouse – Movie Time Sorting](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/cinemahouse)  
 [CropMonitor – Sensor Data Ordering](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/cropmonitor)  
 ---
+
+
+Date: 17 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[ArtExpo – Sort Artists by Registration Time](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/artexpo)  
+[FleetManager – Vehicle Maintenance Scheduler](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/fleetmanager)  
+[IceCreamRush – Sorting Flavors by Popularity](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/icecreamrush)  
+[SmartLibrary – Auto-Sort Borrowed Books](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartlibrary)
+---
