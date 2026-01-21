@@ -5,7 +5,7 @@ public class NonVeg extends MealPlan
 
 	public NonVeg(String name, int calories, double protein) 
 	{
-		super(name, calories, protein,"Vegan");
+		super(name, calories, protein,"NonVeg");
 		
 	}
 
