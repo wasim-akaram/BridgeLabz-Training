@@ -2,7 +2,8 @@ package com.generics.universitycoursemanagement;
 
 public class ResearchCourse  extends CourseType{
 
-	public ResearchCourse(String name, int duration) {
+	public ResearchCourse(String name, int duration)
+	{
 		super(name, duration);
 		// TODO Auto-generated constructor stub
 	}
