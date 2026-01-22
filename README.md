@@ -139,4 +139,11 @@ Date: 12 Jan 2026 Scenario based question
 ---
 
 
+Date: 13 Jan 2026 Scenario based question   
+> solved scenario based question and pushed codes to Github  
+> [PayXpress – Utility Bill Payment System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/payxpress)  
+> [Bird Sanctuary](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/birdsanctuary)
+---
+
+
 
