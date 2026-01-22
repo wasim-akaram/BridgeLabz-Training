@@ -153,3 +153,7 @@ Date: 17 Jan 2026 Scenario based question
 ---
 
 
+Date: 19 Jan 2026 Scenario based question   
+> solved scenario based question and pushed codes to Github  
+> [Address Book System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/addressbook)  
+---
