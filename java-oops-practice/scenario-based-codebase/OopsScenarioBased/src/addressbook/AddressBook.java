@@ -24,7 +24,8 @@ public class AddressBook
     
     public void editContact(String name, String newPhone, String newEmail, Address newAddress)
     {
-        for (Contact c : contacts) {
+        for (Contact c : contacts) 
+        {
             if (c.getFullName().equalsIgnoreCase(name)) 
             {
                 c.setPhone(newPhone);

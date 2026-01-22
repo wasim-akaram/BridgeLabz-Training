@@ -6,6 +6,7 @@ public class Address
     private String state;
     private String zip;
 
+    
     public Address(String city, String state, String zip) 
     {
         this.city = city;

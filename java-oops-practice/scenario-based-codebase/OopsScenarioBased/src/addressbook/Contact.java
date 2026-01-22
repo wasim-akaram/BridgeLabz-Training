@@ -42,7 +42,8 @@ public class Contact
         return address;
     }
 
-    public String getFullName() {
+    public String getFullName() 
+    {
         return firstName + " " + lastName;
     }
 
