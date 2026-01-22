@@ -50,5 +50,74 @@ Day 5  Algorithm's Runtime Analysis & Big-O Notation
 Date: 7 Jan 2026  
 
 > Studied about algorithm's runtime and its analysis  
-> Studied Big-O Notation  
+> Studied Big-O Notation
+Code Link  
+[Algorithm runtime analysis](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaProgramming/src/com/algorithmanalysis)  
+---
+
+
+Date: 10 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[BookShelf – Library Organizer](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/bookshelf)  
+[BrowserBuddy – Tab History Manager](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/browserbuddy)  
+[AmbulanceRoute – Emergency Patient Navigation](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/ambulanceroute)
+---
+
+
+Date: 12 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+> BookShelf – Library Organizer  
+[CallCenter – Customer Queue Manager](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/callcenter)  
+[TrainCompanion – Compartment Navigation System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/traincompanion)  
+[TextEditor – Undo/Redo Functionality ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/texteditor)  
+[ TrafficManager – Roundabout Vehicle Flow ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/trafficmanager)  
+---
+
+
+Date: 13 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[SmartCheckout – Supermarket Billing Queue](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartcheckout)  
+[ParcelTracker – Delivery Chain Management ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/parceltracker)  
+[ExamProctor – Online Exam Review System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/examproctor)
+[PayXpress – Utility Bill Payment System]
+---
+
+
+Date: 15 Jan 2026  Scenario based Question  
+
+> Studied Graph  
+> Solved DSA based Scenario based questions  
+> Code link  
+[HospitalQueue – Patient Sorting by Criticalit](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/hospitalqueue)  
+[SmartShelf – Real-Time Book Arrangement ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartshelf)  
+[ZipZipMart – Daily Sales Summary Report](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/zipzipmart)  
+[EventManager – Ticket Price Optimizer ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/eventmanager)  
+[ExamCell – Student Rank Generator ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/examcell)
+---
+
+
+Date: 16 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[ RoboWarehouse – Shelf Loading Robot](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/robowarehouse)  
+[ CinemaHouse – Movie Time Sorting](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/cinemahouse)  
+[CropMonitor – Sensor Data Ordering](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/cropmonitor)  
+---
+
+
+Date: 17 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[ArtExpo – Sort Artists by Registration Time](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/artexpo)  
+[FleetManager – Vehicle Maintenance Scheduler](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/fleetmanager)  
+[IceCreamRush – Sorting Flavors by Popularity](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/icecreamrush)  
+[SmartLibrary – Auto-Sort Borrowed Books](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartlibrary)
 ---
