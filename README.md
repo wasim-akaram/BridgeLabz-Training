@@ -276,3 +276,38 @@ Date: 10 Jan 2026  Scenario based Question
 [AmbulanceRoute – Emergency Patient Navigation](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/ambulanceroute)    
 ---
 
+
+Date: 12 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+> BookShelf – Library Organizer  
+[CallCenter – Customer Queue Manager](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/callcenter)  
+[TrainCompanion – Compartment Navigation System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/traincompanion)  
+[TextEditor – Undo/Redo Functionality ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/texteditor)  
+[ TrafficManager – Roundabout Vehicle Flow ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/trafficmanager)
+
+> solved scenario based question and pushed codes to Github  
+> [HomeNest – Smart Home Device Manager](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/homenest)  
+> [BudgetWise – Personal Finance Tracker](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/budgetwise)  
+> [GameBox – Mobile Game Distribution Platform](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/gamebox)  
+---
+
+
+Date: 13 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[SmartCheckout – Supermarket Billing Queue](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartcheckout)  
+[ParcelTracker – Delivery Chain Management ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/parceltracker)  
+[ExamProctor – Online Exam Review System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/examproctor)  
+[PayXpress – Utility Bill Payment System]  
+
+> solved scenario based question and pushed codes to Github  
+> [PayXpress – Utility Bill Payment System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/payxpress)    
+> [Bird Sanctuary](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/birdsanctuary)  
+---
+
+
+
+
