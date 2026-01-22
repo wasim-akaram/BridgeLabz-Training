@@ -347,5 +347,17 @@ Date: 17 Jan 2026  Scenario based Question
 ---
 
 
+Date: 19 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+> [EduResults – Rank Sheet Generator](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/eduresults)  
+> [FlashDealz – Product Sorting by Discount ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/flashdealz)  
+> [FitnessTracker – Daily Step Count Ranking ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/fitnesstracker)
+
+> solved scenario based question of OOps and pushed codes to Github  
+> [Address Book System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/addressbook)  
+---
+
 
 
