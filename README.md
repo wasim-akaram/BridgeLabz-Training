@@ -131,4 +131,12 @@ Date: 9 Jan 2026 Scenario based question
 ---
 
 
+Date: 12 Jan 2026 Scenario based question   
+> solved scenario based question and pushed codes to Github  
+> [HomeNest – Smart Home Device Manager](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/homenest)  
+> [BudgetWise – Personal Finance Tracker](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/budgetwise)  
+> [GameBox – Mobile Game Distribution Platform](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/gamebox)
+---
+
+
 
