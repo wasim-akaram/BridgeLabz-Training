@@ -121,3 +121,24 @@ Date: 17 Jan 2026  Scenario based Question
 [IceCreamRush – Sorting Flavors by Popularity](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/icecreamrush)  
 [SmartLibrary – Auto-Sort Borrowed Books](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/smartlibrary)
 ---
+
+
+Date: 19 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+> [EduResults – Rank Sheet Generator](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/eduresults)  
+> [FlashDealz – Product Sorting by Discount ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/flashdealz)  
+> [FitnessTracker – Daily Step Count Ranking ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/fitnesstracker)  
+---
+
+
+
+Date: 20 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+> [MovieTime – Theater Show Listings ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/movietime)  
+> [FoodFest – Sorting Stalls by Customer Footfall](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/foodfest)  
+> [GamerZone – High Score Ranking System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/gamerzone)
+---
