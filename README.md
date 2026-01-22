@@ -146,4 +146,10 @@ Date: 13 Jan 2026 Scenario based question
 ---
 
 
+Date: 17 Jan 2026 Scenario based question   
+> solved scenario based question and pushed codes to Github  
+> [Geo Measure](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/geomeasure)  
+> [Bag-n-Ball Organizer](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/bagnballorganizer)
+---
+
 
