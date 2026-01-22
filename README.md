@@ -267,3 +267,12 @@ Date: 9 Jan 2026 Scenario based question
 ---
 
 
+Date: 10 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+[BookShelf – Library Organizer](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/bookshelf)  
+[BrowserBuddy – Tab History Manager](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/browserbuddy)  
+[AmbulanceRoute – Emergency Patient Navigation](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/ambulanceroute)    
+---
+
