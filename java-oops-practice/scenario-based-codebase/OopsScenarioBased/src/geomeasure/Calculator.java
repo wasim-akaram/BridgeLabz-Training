@@ -1,5 +1,6 @@
 package geomeasure;
 
-public interface Calculator {
+public interface Calculator 
+{
    public void calculation();
 }
