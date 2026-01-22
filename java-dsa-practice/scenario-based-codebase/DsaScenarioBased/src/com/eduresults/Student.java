@@ -5,6 +5,7 @@ public class Student
      public String name;
      public double percentage;
      
+     
      public Student(String name, double percentage) 
      {
     	 this.name = name;
