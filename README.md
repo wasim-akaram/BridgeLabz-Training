@@ -360,4 +360,13 @@ Date: 19 Jan 2026  Scenario based Question
 ---
 
 
+Date: 20 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+> [MovieTime – Theater Show Listings ](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/movietime)  
+> [FoodFest – Sorting Stalls by Customer Footfall](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/foodfest)  
+> [GamerZone – High Score Ranking System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/gamerzone)  
+---
+
 
