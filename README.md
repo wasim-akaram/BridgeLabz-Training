@@ -142,3 +142,11 @@ Date: 20 Jan 2026  Scenario based Question
 > [FoodFest – Sorting Stalls by Customer Footfall](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/foodfest)  
 > [GamerZone – High Score Ranking System](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/gamerzone)
 ---
+
+
+Date: 21 Jan 2026  Scenario based Question  
+
+> Solved DSA based Scenario based questions  
+> Code link  
+> [TailorShop – Sorting Orders by Delivery Deadline](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/tailorshop)  
+> [MedWarehouse – Sorting Medicines by Expiry](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/medwarehouse)  
