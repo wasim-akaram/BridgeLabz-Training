@@ -1,0 +1,31 @@
+package com.regex;
+
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class ExtractLinks 
+{
+	public static void main(String[] args)
+    {
+    	Scanner sc = new Scanner(System.in);
+    	
+    	System.out.println("Enter a text to extract link");
+    	
+        String text = sc.nextLine();
+
+    
+        String regex = "https?://[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}(//[^\\s]*)?";
+
+
+
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(text);
+
+        while (matcher.find()) 
+        {
+            System.out.println(matcher.group());
+        }
+    }
+
+}
