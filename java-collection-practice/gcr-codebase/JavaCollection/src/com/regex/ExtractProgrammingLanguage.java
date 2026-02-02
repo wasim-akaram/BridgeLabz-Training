@@ -15,7 +15,6 @@ public class ExtractProgrammingLanguage
 		
 		List <String> programminglanguagelist = new ArrayList<>();
 		programminglanguagelist.add("Java");
-		programminglanguagelist.add("C\#");
 		programminglanguagelist.add("C++");
 		programminglanguagelist.add("Solidity");
 		programminglanguagelist.add("Rust");
