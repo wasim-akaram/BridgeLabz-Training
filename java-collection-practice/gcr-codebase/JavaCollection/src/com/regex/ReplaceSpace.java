@@ -2,6 +2,7 @@ package com.regex;
 
 import java.util.Scanner;
 
+
 public class ReplaceSpace 
 {
 	public static void main(String[] args)
