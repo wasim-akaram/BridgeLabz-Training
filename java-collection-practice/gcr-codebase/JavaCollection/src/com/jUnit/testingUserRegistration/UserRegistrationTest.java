@@ -12,13 +12,13 @@ class UserRegistrationTest
 	@Test
 	void testSuccessfulRegistration() 
 	{
-		assertTrue(registration.registerUser("john_doe", "john@example.com", "secure123"));
+		assertTrue(registration.registerUser("wasim", "wasim@yahoomail.com", "password123"));
 	}
 
 	@Test
 	void testFailedRegistration() 
 	{
-		assertThrows(IllegalArgumentException.class, () -> {registration.registerUser("john", "invalid-email", "123");});
+		assertThrows(IllegalArgumentException.class, () -> {registration.registerUser("vishal", "nomail-email", "123");});
 	}
 
 }
