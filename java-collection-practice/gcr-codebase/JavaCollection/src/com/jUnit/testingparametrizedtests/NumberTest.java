@@ -2,9 +2,9 @@ package com.jUnit.testingparametrizedtests;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
-import com.junit.main.Basic.ParameterizedTest.Number;
 
 class NumberTest 
 {
