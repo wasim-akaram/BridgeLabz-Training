@@ -7,6 +7,7 @@ public class JsonSerializer
 	public static String toJson(Object obj) throws Exception 
 	{
 		Class<?> clazz = obj.getClass();
+		
 		StringBuilder json = new StringBuilder("{");
 
 		Field[] fields = clazz.getDeclaredFields();
