@@ -12,12 +12,12 @@ class DateFormatterTest
 	@Test
 	void testFormatDate() 
 	{
-		assertEquals("25-12-2023", formatter.formatDate("2023-12-25"));
+		assertEquals("25-12-2023", formatter.formatDate("1995-10-25"));
 	}
 
 	@Test
 	void testInvalidDateFormat() 
 	{
-		assertThrows(Exception.class, () -> {formatter.formatDate("12-25-2023");});
+		assertThrows(Exception.class, () -> {formatter.formatDate("10-01-2020");});
 	}
 }
