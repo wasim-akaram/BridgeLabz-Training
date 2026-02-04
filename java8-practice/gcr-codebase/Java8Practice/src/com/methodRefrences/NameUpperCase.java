@@ -25,6 +25,6 @@ package com.methodRefrences;
 	
 	        upperCaseNames.forEach(System.out::println);
 	    }
-	}
+	}	
 
 
