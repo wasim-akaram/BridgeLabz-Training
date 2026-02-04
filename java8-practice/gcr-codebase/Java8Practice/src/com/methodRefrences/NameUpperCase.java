@@ -2,6 +2,7 @@ package com.methodRefrences;
 
 
 	import java.util.*;
+
 	import java.util.stream.*;
 
 	public class NameUpperCase 
