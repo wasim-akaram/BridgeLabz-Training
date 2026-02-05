@@ -1,7 +1,9 @@
 package com.functionalInterface.smartDeviceControl;
-public class SmartHome {
+public class SmartHome 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         SmartDevice light = new Light();
         SmartDevice ac = new AC();
