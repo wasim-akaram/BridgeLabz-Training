@@ -1,5 +1,6 @@
 package com.iostream.json;
-public class FilterUsers {
+public class FilterUsers 
+{
     public static void main(String[] args) {
 
         String json =
@@ -17,6 +18,7 @@ public class FilterUsers {
                     System.out.println("{ " + u.trim());
                 }
             }
+            
         }
     }
 }
