@@ -1,7 +1,7 @@
 package com.iostream.json;
 import java.util.regex.*;
 
-public class ValidateEmailJson {
+public class ValidateEmailJson {                                                                                                                   
     public static void main(String[] args) {
 
         String json = "{ \"email\": \"test@gmail.com\" }";
