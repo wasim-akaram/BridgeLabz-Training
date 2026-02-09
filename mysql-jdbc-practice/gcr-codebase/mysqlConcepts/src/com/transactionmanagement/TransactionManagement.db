@@ -1,0 +1,160 @@
+-- Transaction management
+
+--craete account table
+
+
+mysql> create table account(
+    -> account_number int primary key auto_increment,
+    -> name varchar(25) not null,
+    -> balance double (10,2) not null,
+    -> phone_no int not null);
+    -> $$
+Query OK, 0 rows affected, 1 warning (0.05 sec)
+
+
+mysql> desc account;
+    -> $$
++----------------+--------------+------+-----+---------+----------------+
+| Field          | Type         | Null | Key | Default | Extra          |
++----------------+--------------+------+-----+---------+----------------+
+| account_number | int          | NO   | PRI | NULL    | auto_increment |
+| name           | varchar(25)  | NO   |     | NULL    |                |
+| balance        | double(10,2) | NO   |     | NULL    |                |
+| phone_no       | int          | NO   |     | NULL    |                |
++----------------+--------------+------+-----+---------+----------------+
+4 rows in set (0.02 sec)
+
+--create tarnsaction table
+
+mysql> create table transaction(
+    -> transaction_id int primary key auto_increment,
+    -> credit_to int not null,
+    -> debit_to int not null,
+    -> amount double(10,2) not null,
+    -> date timestamp default current_timestamp,
+    -> status varchar(12) not null);
+    -> $$
+Query OK, 0 rows affected, 1 warning (0.04 sec)
+
+mysql> desc transaction;
+    -> $$
++----------------+--------------+------+-----+-------------------+-------------------+
+| Field          | Type         | Null | Key | Default           | Extra             |
++----------------+--------------+------+-----+-------------------+-------------------+
+| transaction_id | int          | NO   | PRI | NULL              | auto_increment    |
+| credit_to      | int          | NO   |     | NULL              |                   |
+| debit_to       | int          | NO   |     | NULL              |                   |
+| amount         | double(10,2) | NO   |     | NULL              |                   |
+| date           | timestamp    | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
+| status         | varchar(12)  | NO   |     | NULL              |                   |
++----------------+--------------+------+-----+-------------------+-------------------+
+6 rows in set (0.01 sec)
+
+--insert some data
+
+mysql> insert into account values
+    -> (1,'Wasim',75000.00, 7761944366),
+    -> (2,'Anvesh', 800000.00, 9555571078),
+    -> (3,'Harshit',20000000.00,9179782561),
+    -> (4,'Abuzar',890007.76, 9522248314),
+    -> (5,'Vipin', 67856800.00,9569464093),
+    -> (6,'Aneek', 27549000.00, 7880061935);
+    -> $$
+Query OK, 6 rows affected (0.01 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+select * from account;
+    -> $$
++----------------+---------+-------------+------------+
+| account_number | name    | balance     | phone_no   |
++----------------+---------+-------------+------------+
+|              1 | Wasim   |    75000.00 | 7761944366 |
+|              2 | Anvesh  |   800000.00 | 9555571078 |
+|              3 | Harshit | 20000000.00 | 9179782561 |
+|              4 | Abuzar  |   890007.76 | 9522248314 |
+|              5 | Vipin   | 67856800.00 | 9569464093 |
+|              6 | Aneek   | 27549000.00 | 7880061935 |
++----------------+---------+-------------+------------+
+6 rows in set (0.00 sec)
+
+-- procedure  for transaction
+
+mysql> DELIMITER $$
+mysql>
+mysql> CREATE PROCEDURE transfer_money(
+    ->     IN p_debit_from INT,
+    ->     IN p_credit_to INT,
+    ->     IN p_amount DOUBLE(10,2)
+    -> )
+    -> BEGIN
+    ->     DECLARE bal DOUBLE(10,2);
+    ->
+    ->     START TRANSACTION;
+    ->
+    ->     -- Check balance
+    ->     SELECT balance INTO bal
+    ->     FROM account
+    ->     WHERE account_number = p_debit_from;
+    ->
+    ->     IF bal >= p_amount THEN
+    ->
+    ->         -- Debit
+    ->         UPDATE account
+    ->         SET balance = balance - p_amount
+    ->         WHERE account_number = p_debit_from;
+    ->
+    ->         -- Credit
+    ->         UPDATE account
+    ->         SET balance = balance + p_amount
+    ->         WHERE account_number = p_credit_to;
+    ->
+    ->         -- Log success
+    ->         INSERT INTO transaction_history
+    ->         (credit_to, debit_from, amount,status)
+    ->         VALUES
+    ->         (p_credit_to, p_debit_from, p_amount,'SUCCESS');
+    ->
+    ->         COMMIT;
+    ->
+    ->     ELSE
+    ->         -- Log failure
+    ->         INSERT INTO transaction_history
+    ->         (credit_to, debit_from, amount, status)
+    ->         VALUES
+    ->         (p_credit_to, p_debit_from, p_amount, 'FAILED');
+    ->
+    ->         ROLLBACK;
+    ->     END IF;
+    ->
+    -> END $$
+Query OK, 0 rows affected, 2 warnings (0.01 sec)
+
+mysql>
+mysql> DELIMITER ;
+mysql>
+mysql> call transfer_money(2,1,100000);
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select * from account;
++----------------+---------+-------------+------------+
+| account_number | name    | balance     | phone_no   |
++----------------+---------+-------------+------------+
+|              1 | Wasim   |   125000.00 | 7761944366 |
+|              2 | Anvesh  |   750000.00 | 9555571078 |
+|              3 | Harshit | 20000000.00 | 9179782561 |
+|              4 | Abuzar  |   890007.76 | 9522248314 |
+|              5 | Vipin   | 67856800.00 | 9569464093 |
+|              6 | Aneek   | 27549000.00 | 7880061935 |
++----------------+---------+-------------+------------+
+6 rows in set (0.00 sec)
+
+mysql> select * from transaction_history;
++----------------+-----------+------------+-----------+---------------------+---------+
+| transaction_id | credit_to | debit_from | amount    | date                | status  |
++----------------+-----------+------------+-----------+---------------------+---------+
+|              1 |         1 |          2 | 100000.00 | 2026-02-09 15:55:27 | SUCCESS |
++----------------+-----------+------------+-----------+---------------------+---------+
+1 row in set (0.00 sec)
+
+mysql> call transfer_money(6,1,78100000);
+Query OK, 0 rows affected (0.01 sec)
