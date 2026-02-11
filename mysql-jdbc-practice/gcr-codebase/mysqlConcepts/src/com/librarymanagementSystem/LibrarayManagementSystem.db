@@ -1,0 +1,290 @@
+-- Library management System
+
+--create book table
+
+ mysql> create table book(
+    -> ISBN double(13,0) not null,
+    -> name varchar(20) not null,
+    -> stock int not null);
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+mysql> desc book;
++-------+--------------+------+-----+---------+-------+
+| Field | Type         | Null | Key | Default | Extra |
++-------+--------------+------+-----+---------+-------+
+| ISBN  | double(13,0) | NO   |     | NULL    |       |
+| name  | varchar(20)  | NO   |     | NULL    |       |
+| stock | int          | NO   |     | NULL    |       |
++-------+--------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
+
+mysql> alter table book modify ISBN double (13,0) primary key ;
+Query OK, 0 rows affected, 1 warning (0.07 sec)
+Records: 0  Duplicates: 0  Warnings: 1
+
+mysql> desc book;
++-------+--------------+------+-----+---------+-------+
+| Field | Type         | Null | Key | Default | Extra |
++-------+--------------+------+-----+---------+-------+
+| ISBN  | double(13,0) | NO   | PRI | NULL    |       |
+| name  | varchar(20)  | NO   |     | NULL    |       |
+| stock | int          | NO   |     | NULL    |       |
++-------+--------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
+ 
+ 
+ -- create student table
+ 
+ mysql> create table student(
+    -> stu_id int primary key not null,
+    -> name varchar(20) not null,
+    -> contact varchar(30) not null,
+    -> books_borrowed int not null);
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> desc Student;
++----------------+-------------+------+-----+---------+-------+
+| Field          | Type        | Null | Key | Default | Extra |
++----------------+-------------+------+-----+---------+-------+
+| stu_id         | int         | NO   | PRI | NULL    |       |
+| name           | varchar(20) | NO   |     | NULL    |       |
+| contact        | varchar(30) | NO   |     | NULL    |       |
+| books_borrowed | int         | NO   |     | NULL    |       |
++----------------+-------------+------+-----+---------+-------+
+4 rows in set (0.00 sec)
+
+
+--craete table borrow history
+
+mysql> create table borrow_history(
+    -> borrow_id int primary key auto_increment,
+    -> stu_id int not null,
+    -> name varchar(20) not null,
+    -> date timestamp default current_timestamp,
+    -> return_date timestamp default (DATE_ADD(CURRENT_TIMESTAMP, INTERVAL 30 DAY))
+    -> );
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> desc borrow_history
+    -> ;
++-------------+-------------+------+-----+---------------------------+-------------------+
+| Field       | Type        | Null | Key | Default                   | Extra             |
++-------------+-------------+------+-----+---------------------------+-------------------+
+| borrow_id   | int         | NO   | PRI | NULL                      | auto_increment    |
+| stu_id      | int         | NO   |     | NULL                      |                   |
+| name        | varchar(20) | NO   |     | NULL                      |                   |
+| date        | timestamp   | YES  |     | CURRENT_TIMESTAMP         | DEFAULT_GENERATED |
+| return_date | timestamp   | YES  |     | (now() + interval 30 day) | DEFAULT_GENERATED |
++-------------+-------------+------+-----+---------------------------+-------------------+
+5 rows in set (0.00 sec)
+
+
+mysql> alter table borrow_history add ISBN int;
+Query OK, 0 rows affected (0.08 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> desc borrow_history;
++-------------+-------------+------+-----+---------------------------+-------------------+
+| Field       | Type        | Null | Key | Default                   | Extra             |
++-------------+-------------+------+-----+---------------------------+-------------------+
+| borrow_id   | int         | NO   | PRI | NULL                      | auto_increment    |
+| stu_id      | int         | NO   |     | NULL                      |                   |
+| book_name   | varchar(20) | NO   |     | NULL                      |                   |
+| date        | timestamp   | YES  |     | CURRENT_TIMESTAMP         | DEFAULT_GENERATED |
+| return_date | timestamp   | YES  |     | (now() + interval 30 day) | DEFAULT_GENERATED |
+| ISBN        | int         | YES  |     | NULL                      |                   |
++-------------+-------------+------+-----+---------------------------+-------------------+
+6 rows in set (0.00 sec)
+
+
+
+mysql> alter table borrow_history add returned_on timestamp;
+Query OK, 0 rows affected (0.08 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> desc borrow_history;
++-------------+-------------+------+-----+---------------------------+-------------------+
+| Field       | Type        | Null | Key | Default                   | Extra             |
++-------------+-------------+------+-----+---------------------------+-------------------+
+| borrow_id   | int         | NO   | PRI | NULL                      | auto_increment    |
+| stu_id      | int         | NO   |     | NULL                      |                   |
+| book_name   | varchar(20) | NO   |     | NULL                      |                   |
+| date        | timestamp   | YES  |     | CURRENT_TIMESTAMP         | DEFAULT_GENERATED |
+| return_date | timestamp   | YES  |     | (now() + interval 30 day) | DEFAULT_GENERATED |
+| ISBN        | int         | YES  |     | NULL                      |                   |
+| returned_on | timestamp   | YES  |     | NULL                      |                   |
++-------------+-------------+------+-----+---------------------------+-------------------+
+7 rows in set (0.01 sec)
+
+--create a procedure to borrow a book
+
+mysql> delimiter $$
+mysql> create procedure borrow_book(
+    ->
+    -> in p_name varchar(20),
+    -> in p_ISBN double (13,0),
+    -> in p_stuid int)
+    ->
+    -> begin
+    -> declare current_stock int;
+    -> declare has_books int;
+    ->
+    -> select stock into current_stock from book
+    -> where name = p_name and ISBN = p_ISBN;
+    ->
+    -> select books_borrowed into has_books from student where stu_id = p_stuid;
+    ->
+    -> if current_stock > 0 then
+    -> update book set stock = stock -1
+    -> where name = P-name and ISBN = p_ISBN;
+    ->
+    -> update  student set books_borrowed = has_books + 1 where stu_id = p_stu_id;
+    ->
+    -> else
+    ->
+    ->     SIGNAL SQLSTATE '45000'
+    ->     SET MESSAGE_TEXT = 'Book not available';
+    ->
+    ->
+    -> end if;
+    -> end $$
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+mysql> call borrow_book('dcgtfad', 68768,23);
+    -> $$
+ERROR 1644 (45000): Book not available
+mysql> delimiter ;
+mysql> ;
+
+
+--create a procedure to return book and calculate fine 
+
+mysql> delimiter $$
+mysql>
+mysql> create procedure return_book(
+    -> in p_ISBN double(13,0),
+    -> in p_book_name varchar(20),
+    -> in p_stuid int)
+    -> begin
+    -> declare date_borowed timestamp;
+    -> declare today_date timestamp;
+    -> declare days_late int;
+    -> declare fine double (5,2);
+    ->
+    -> set today_date = current_timestamp;
+    ->
+    -> select date into date_borowed from borrow_history where
+    -> ISBN = p_ISBN and
+    -> book_name = p_book_name and
+    -> stu_id = p_stuid;
+    ->
+    -> set days_late = datediff(today_date , date_borowed);
+    -> set fine = days_late * 25;
+    ->
+    -> if days_late > 0 then
+    ->
+    -> select concat('pay fine rs ', fine) as message;
+    ->
+    -> else
+    ->
+    -> select 'Book returned sucessfully' as message;
+    ->
+    -> end if;
+    ->
+    -> update borrow_history set returned_on = today_date
+    ->  where ISBN = p_ISBN and
+    -> book_name = p_book_name and
+    -> stu_id = p_stuid;
+    -> end $$
+Query OK, 0 rows affected, 2 warnings (0.02 sec)
+
+--create a procedure to find book status by name and ISBN
+
+mysql>
+mysql> delimiter $$
+mysql> create procedure find_book(
+    -> in p_ISBN double (13,0),
+    -> in p_name varchar (20))
+    -> begin
+    ->
+    -> select * from book where ISBN = p_ISBN and name = p_name;
+    -> end $$
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+--create a procedure to find a student and books he has borrowed
+
+mysql> delimiter $$
+mysql> create procedure find_student(
+    -> in p_stu_id int ,
+    -> in p_name varchar (20))
+    -> begin
+    ->
+    -> select * from borrow_history where stu_id = p_stu_id;
+    -> end $$
+Query OK, 0 rows affected (0.01 sec)
+
+
+
+mysql> insert into book values(000001,'C++',1 ),(000002, 'Java', 2),(000003,'SQL',3);
+Query OK, 3 rows affected (0.02 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> select * from book;
++------+------+-------+
+| ISBN | name | stock |
++------+------+-------+
+|    1 | C++  |     1 |
+|    2 | Java |     2 |
+|    3 | SQL  |     3 |
++------+------+-------+
+3 rows in set (0.00 sec)
+
+mysql>
+mysql>  insert into student values
+    ->  (1,'Wasim','wasim@gmail.com',0),
+    ->  (2,'Harshit','harshit@gmail.com',0),
+    ->  (3,'Anvesh','anv@gmail.com',0),
+    ->  (4,'Ananya','ananya@gmail.com',0);
+Query OK, 4 rows affected (0.01 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql> select * from student;
++--------+---------+-------------------+----------------+
+| stu_id | name    | contact           | books_borrowed |
++--------+---------+-------------------+----------------+
+|      1 | Wasim   | wasim@gmail.com   |              0 |
+|      2 | Harshit | harshit@gmail.com |              0 |
+|      3 | Anvesh  | anv@gmail.com     |              0 |
+|      4 | Ananya  | ananya@gmail.com  |              0 |
++--------+---------+-------------------+----------------+
+4 rows in set (0.00 sec)
+
+
+mysql> select * from book;
++------+------+-------+
+| ISBN | name | stock |
++------+------+-------+
+|    1 | C++  |     0 |
+|    2 | Java |     2 |
+|    3 | SQL  |     3 |
++------+------+-------+
+3 rows in set (0.00 sec)
+
+mysql> call find_book(2,'Java');
++------+------+-------+
+| ISBN | name | stock |
++------+------+-------+
+|    2 | Java |     0 |
++------+------+-------+
+1 row in set (0.00 sec)
+
+
+
+
+
+
+
+
+
+
+ 
