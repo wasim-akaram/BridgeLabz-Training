@@ -1,0 +1,91 @@
+--Create a console-based Employee Management System with:
+--• Add employee
+--• View all employees
+--• Update employee salary
+--• Delete employee
+--• Search employee by name
+
+--select database
+
+use rico;
+
+--create table employee
+
+ CREATE TABLE employee (
+         emp_id INT PRIMARY KEY AUTO_INCREMENT,
+         name VARCHAR(25) NOT NULL,
+         department VARCHAR(15) NOT NULL,
+         salary INT NOT NULL
+     );
+     
+-- check the table
+	desc employee;
+
+--output
+
++------------+-------------+------+-----+---------+----------------+
+| Field      | Type        | Null | Key | Default | Extra          |
++------------+-------------+------+-----+---------+----------------+
+| emp_id     | int         | NO   | PRI | NULL    | auto_increment |
+| name       | varchar(25) | NO   |     | NULL    |                |
+| department | varchar(15) | NO   |     | NULL    |                |
+| salary     | int         | NO   |     | NULL    |                |
++------------+-------------+------+-----+---------+----------------+
+4 rows in set (0.01 sec)
+
+
+--insert employees into employee table
+
+
+mysql> insert into employee (emp_id, name, department, salary)
+    -> values (1,'Wasim','IT',55000),
+    -> (2,'Vipin', 'IT',60000 ),
+    -> (3, 'Rico', 'Management', 40000),
+    -> (4, 'Skipper', 'HR', 50000);
+    -> 
+Query OK, 4 rows affected (0.03 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+--view employees
+mysql> select * from employee;
+
+--output
+
++--------+---------+------------+--------+
+| emp_id | name    | department | salary |
++--------+---------+------------+--------+
+|      1 | Wasim   | IT         |  55000 |
+|      2 | Vipin   | IT         |  60000 |
+|      3 | Rico    | Management |  40000 |
+|      4 | Skipper | HR         |  50000 |
++--------+---------+------------+--------+
+4 rows in set (0.00 sec)
+
+--update salary
+
+update employee set salary = 60000 where emp_id = 4;
+   
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+--delete epmloyee
+
+mysql> delete from employee where emp_id = 1;
+    -> $$
+Query OK, 1 row affected (0.01 sec)
+
+-- select employee by name
+
+
+mysql> select * from employee where name = 'Vipin';
+    -> $$
++--------+-------+------------+--------+
+| emp_id | name  | department | salary |
++--------+-------+------------+--------+
+|      2 | Vipin | IT         |  60000 |
++--------+-------+------------+--------+
+1 row in set (0.01 sec)
+
+
+
+
