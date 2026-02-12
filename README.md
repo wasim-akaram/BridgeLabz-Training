@@ -500,7 +500,7 @@ Day 5: Smart city management
 ---
 
 
-# Week 7: Design Principle, Design Pattern and Multi threading  
+# Design Principle, Design Pattern and Multi threading  
 
 Day 1: Dsign principles and Design Pattern  
 > Studied different design principles  
@@ -515,3 +515,24 @@ Day 2 : Multi theading
 > Studied threds and thread lifecycle  
 > Studied multi threading  in java  
 > [multi threading](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-design-pattern/java-design-pattern/gcr-codebase/multithreading/src)  
+---
+
+
+# mysql, JDBC practice
+
+# mysql JDBC practice  
+
+
+---  
+Day 1: Introduction to mysql and queries  
+> Studied the databases  
+> Studied the different operations and joins  
+> Solved sql questions  
+> [mysql questions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/mysqlConcepts/src/com)  
+---  
+
+
+Day 2: Introduction to JDBC  
+> Studied overview of JDBC  
+> Created connection to the databse  
+> Learned how to work od databases in java programs  
