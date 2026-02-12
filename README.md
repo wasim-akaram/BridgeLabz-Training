@@ -424,3 +424,21 @@ Day 6: Annotations and Reflections
 > [Annotations](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollection/src/com/annotations)  
 > [Reflection](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/JavaCollection/src/com/reflection)  
 ---
+
+
+# Java IO streams  
+
+Day 1: CSV Data Handling in Java  
+> Studied how to handle csv files in java  
+> Learned how to read and write in csv files  
+> Solved questions and pushed to github  
+> [csv file handling](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-iostream/java-iostreams/gcr-codebase/javaIOstreams/src/com/iostream/csv)  
+---
+
+
+Day 2: JSON data handling in java
+Studied how to handle JSON files in java  
+> Learned how to read and write in JSON files  
+> Solved questions and pushed to github  
+> [JSON file handling](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-iostream/java-iostreams/gcr-codebase/javaIOstreams/src/com/iostream/json)  
+---
