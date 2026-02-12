@@ -442,3 +442,59 @@ Studied how to handle JSON files in java
 > Solved questions and pushed to github  
 > [JSON file handling](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-iostream/java-iostreams/gcr-codebase/javaIOstreams/src/com/iostream/json)  
 ---
+
+# 
+# Week 6: Java 8  
+
+Day 1: Lambdas, Method References  
+> Lambda expressions and functional interfaces  
+> Method references (static, instance, constructor)  
+> Stream-based filtering and transformations  
+> Effective use of predicates, consumers, and functions  
+> [Lambda expressions](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/Java8Practice/src/com/lambdaExpression)  
+---
+
+
+Day 2: Interfaces & Functional Interfaces in Java, and Stream API Practice  
+> Studied Defining and implementing interfaces  
+> Interface best practices and ISP  
+> Default and static methods  
+> Method conflict resolution  
+> Polymorphism and decoupling  
+
+> Functional Interfaces:  
+> SAM concept and @Functional Interface  
+> Built-in functional interfaces  
+> Custom functional interfaces  
+> Lambda compatibility (SAM conversion)  
+> [Functional Interface](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/Java8Practice/src/com/functionalInterface)  
+---  
+
+Day 3 : Java Stream API & Parallel Streams  
+> Stream pipeline structure  
+> Intermediate operations: filter, map, sorted, distinct  
+> Terminal operations: collect, forEach, count  
+> Lazy evaluation and stateless vs stateful operations  
+> Ordered vs unordered streams  
+> parallelStream() vs sequential stream  
+> ForkJoinPool and multi-threaded execution  
+> Order handling with forEachOrdered()  
+> Performance considerations and best practices  
+> [Stream API](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/Java8Practice/src/com/streamAPI)  
+---
+
+
+Day 4: Collectors in Java Stream API  
+> Converting streams to collections using toList(), toSet(), toMap()  
+> Transforming and aggregating stream data  
+> Grouping elements using groupingBy()  
+> Partitioning data using partitioningBy()  
+> Performed different operations  
+> [Collectors](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/Java8Practice/src/com/collectors)  
+---
+
+
+Day 5: Smart city management  
+> Solved a scenario-based question using features of java 8  
+> used all the read concepts of java8  
+
