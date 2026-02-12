@@ -497,4 +497,21 @@ Day 4: Collectors in Java Stream API
 Day 5: Smart city management  
 > Solved a scenario-based question using features of java 8  
 > used all the read concepts of java8  
+---
 
+
+# Week 7: Design Principle, Design Pattern and Multi threading  
+
+Day 1: Dsign principles and Design Pattern  
+> Studied different design principles  
+> Studied SOLID  
+> Learned best practices  
+> Learned different design patterns  
+> [Design principles](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-design-pattern/java-design-pattern/gcr-codebase/javaDesignPattern/src/designPattern/librarymanagement)  
+---
+
+
+Day 2 : Multi theading  
+> Studied threds and thread lifecycle  
+> Studied multi threading  in java  
+> [multi threading](https://github.com/wasim-akaram/BridgeLabz-Training/tree/java-design-pattern/java-design-pattern/gcr-codebase/multithreading/src)  
