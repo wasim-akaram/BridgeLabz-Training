@@ -13,14 +13,14 @@ public class TestConnection {
 
         	//checking  if the connection is successsful or not?
             if (conn != null) {
-                System.out.println("✅ Database Connected Successfully!");
+                System.out.println("Database Connected Successfully!");
                 System.out.println("Database Name: " + conn.getCatalog());
             } else {
-                System.out.println("❌ Connection Failed!");
+                System.out.println("Connection Failed!");
             }
 
         } catch (SQLException e) {
-            System.out.println("❌ Connection Error!");
+            System.out.println("Connection Error!");
             e.printStackTrace();
         }
     }
